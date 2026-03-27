@@ -1,18 +1,18 @@
 [
   {
     "type": "WATCH (LEAN SELL)",
-    "ticker": "BSE",
-    "confidence": 0.78,
-    "directional_score": -0.78,
-    "signal": "ERROR",
+    "ticker": "AP",
+    "confidence": 0.83,
+    "directional_score": -0.83,
+    "signal": "SELL",
     "headlines": 1
   },
   {
     "type": "WATCH (LEAN SELL)",
-    "ticker": "CNBC",
+    "ticker": "LIVE",
     "confidence": 0.75,
     "directional_score": -0.75,
-    "signal": "ERROR",
+    "signal": "BUY",
     "headlines": 1
   }
 ]
