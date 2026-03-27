@@ -1,18 +1,42 @@
 [
   {
-    "type": "WATCH (LEAN SELL)",
-    "ticker": "AP",
-    "confidence": 0.83,
-    "directional_score": -0.83,
+    "type": "WATCH (LEAN BUY)",
+    "ticker": "ONDS",
+    "confidence": 0.9,
+    "directional_score": 0.9,
     "signal": "SELL",
     "headlines": 1
   },
   {
-    "type": "WATCH (LEAN SELL)",
-    "ticker": "LIVE",
-    "confidence": 0.75,
-    "directional_score": -0.75,
+    "type": "BUY",
+    "ticker": "IDN",
+    "confidence": 0.9,
+    "directional_score": 0.9,
     "signal": "BUY",
     "headlines": 1
+  },
+  {
+    "type": "WATCH (LEAN BUY)",
+    "ticker": "ARLO",
+    "confidence": 0.8,
+    "directional_score": 0.8,
+    "signal": "BUY",
+    "headlines": 1
+  },
+  {
+    "type": "WATCH (LEAN BUY)",
+    "ticker": "TXRH",
+    "confidence": 0.79,
+    "directional_score": 0.79,
+    "signal": "SELL",
+    "headlines": 1
+  },
+  {
+    "type": "WATCH (LEAN BUY)",
+    "ticker": "MU",
+    "confidence": 0.78,
+    "directional_score": 0.78,
+    "signal": "SELL",
+    "headlines": 2
   }
 ]
